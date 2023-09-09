@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Prabhat Singh",
+      "email": "prabhat14@gmail.com",
+      "phone": "6386145416",
+      "id": 1
+    },
+    {
+      "name": "Mohit Gupta",
+      "email": "mohit14@gmail.com",
+      "phone": "6861614456",
+      "id": 2
+    },
+    {
+      "name": "Surya Pratap Singh",
+      "email": "surya12@gmail.com",
+      "phone": "7386114016",
+      "id": 3
+    }
+  ]
+}
